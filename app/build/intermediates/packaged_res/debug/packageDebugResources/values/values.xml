@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8FAFC</color>
+    <color name="black">#0F172A</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="error">#EF4444</color>
+    <color name="info_bg">#EFF6FF</color>
+    <color name="info_border">#BFDBFE</color>
+    <color name="info_text">#1E40AF</color>
+    <color name="primary">#1E40AF</color>
+    <color name="primary_light">#3B82F6</color>
+    <color name="primary_variant">#1E3A8A</color>
+    <color name="purple_200">#93C5FD</color>
+    <color name="purple_500">#1E40AF</color>
+    <color name="purple_700">#1E3A8A</color>
+    <color name="secondary">#0D9488</color>
+    <color name="secondary_variant">#0F766E</color>
+    <color name="success">#10B981</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="teal_200">#2DD4BF</color>
+    <color name="teal_700">#0F766E</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="warning">#F59E0B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CRUD Mahasiswa</string>
+    <string name="btn_cari">Cari</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_update">Update</string>
+    <string name="hint_nama">Masukkan Nama</string>
+    <string name="hint_nrp">Masukkan NRP</string>
+    <string name="label_nama">Nama</string>
+    <string name="label_nrp">NRP</string>
+    <style name="Theme.CrudApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

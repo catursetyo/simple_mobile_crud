@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD Mahasiswa</string>
+    <string name="label_nrp">NRP</string>
+    <string name="hint_nrp">Masukkan NRP</string>
+    <string name="label_nama">Nama</string>
+    <string name="hint_nama">Masukkan Nama</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_cari">Cari</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_hapus">Hapus</string>
+</resources>
